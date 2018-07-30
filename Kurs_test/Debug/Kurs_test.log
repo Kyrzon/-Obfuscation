@@ -1,0 +1,199 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Kurs_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Write.cpp
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(310): warning C4005: UINT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(122): note: см. предыдущее определение "UINT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(325): warning C4005: INT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(117): note: см. предыдущее определение "INT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(343): warning C4005: UINT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(123): note: см. предыдущее определение "UINT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(367): warning C4005: INT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(118): note: см. предыдущее определение "INT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(381): error C2371: uint32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(23): note:  см. объявление "uint32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(382): warning C4005: UINT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(124): note: см. предыдущее определение "UINT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(411): error C2371: int32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(19): note:  см. объявление "int32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(412): warning C4005: INT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(119): note: см. предыдущее определение "INT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(477): warning C4005: UINT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(125): note: см. предыдущее определение "UINT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(478): warning C4005: INT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(120): note: см. предыдущее определение "INT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(622): error C2371: int_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(36): note:  см. объявление "int_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(623): error C2371: uint_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(40): note:  см. объявление "uint_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(626): warning C4005: UINT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(82): note: см. предыдущее определение "UINT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(627): warning C4005: INT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(78): note: см. предыдущее определение "INT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(628): warning C4005: UINT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(83): note: см. предыдущее определение "UINT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(629): warning C4005: INT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(79): note: см. предыдущее определение "INT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(630): warning C4005: UINT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(84): note: см. предыдущее определение "UINT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(631): warning C4005: INT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(80): note: см. предыдущее определение "INT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(632): warning C4005: INT_FAST8_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(74): note: см. предыдущее определение "INT_FAST8_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(633): warning C4005: INT_FAST16_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(75): note: см. предыдущее определение "INT_FAST16_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(634): warning C4005: INT_FAST32_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(76): note: см. предыдущее определение "INT_FAST32_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(638): warning C4005: UINT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(85): note: см. предыдущее определение "UINT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(639): warning C4005: INT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(81): note: см. предыдущее определение "INT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(640): warning C4005: INT_FAST64_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(77): note: см. предыдущее определение "INT_FAST64_MIN"
+  test.cpp
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(310): warning C4005: UINT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(122): note: см. предыдущее определение "UINT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(325): warning C4005: INT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(117): note: см. предыдущее определение "INT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(343): warning C4005: UINT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(123): note: см. предыдущее определение "UINT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(367): warning C4005: INT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(118): note: см. предыдущее определение "INT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(381): error C2371: uint32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(23): note:  см. объявление "uint32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(382): warning C4005: UINT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(124): note: см. предыдущее определение "UINT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(411): error C2371: int32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(19): note:  см. объявление "int32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(412): warning C4005: INT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(119): note: см. предыдущее определение "INT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(477): warning C4005: UINT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(125): note: см. предыдущее определение "UINT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(478): warning C4005: INT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(120): note: см. предыдущее определение "INT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(622): error C2371: int_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(36): note:  см. объявление "int_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(623): error C2371: uint_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(40): note:  см. объявление "uint_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(626): warning C4005: UINT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(82): note: см. предыдущее определение "UINT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(627): warning C4005: INT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(78): note: см. предыдущее определение "INT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(628): warning C4005: UINT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(83): note: см. предыдущее определение "UINT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(629): warning C4005: INT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(79): note: см. предыдущее определение "INT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(630): warning C4005: UINT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(84): note: см. предыдущее определение "UINT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(631): warning C4005: INT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(80): note: см. предыдущее определение "INT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(632): warning C4005: INT_FAST8_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(74): note: см. предыдущее определение "INT_FAST8_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(633): warning C4005: INT_FAST16_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(75): note: см. предыдущее определение "INT_FAST16_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(634): warning C4005: INT_FAST32_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(76): note: см. предыдущее определение "INT_FAST32_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(638): warning C4005: UINT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(85): note: см. предыдущее определение "UINT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(639): warning C4005: INT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(81): note: см. предыдущее определение "INT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(640): warning C4005: INT_FAST64_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(77): note: см. предыдущее определение "INT_FAST64_MIN"
+  Obfuskation.cpp
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(310): warning C4005: UINT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(122): note: см. предыдущее определение "UINT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(325): warning C4005: INT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(117): note: см. предыдущее определение "INT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(343): warning C4005: UINT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(123): note: см. предыдущее определение "UINT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(367): warning C4005: INT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(118): note: см. предыдущее определение "INT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(381): error C2371: uint32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(23): note:  см. объявление "uint32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(382): warning C4005: UINT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(124): note: см. предыдущее определение "UINT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(411): error C2371: int32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(19): note:  см. объявление "int32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(412): warning C4005: INT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(119): note: см. предыдущее определение "INT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(477): warning C4005: UINT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(125): note: см. предыдущее определение "UINT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(478): warning C4005: INT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(120): note: см. предыдущее определение "INT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(622): error C2371: int_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(36): note:  см. объявление "int_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(623): error C2371: uint_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(40): note:  см. объявление "uint_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(626): warning C4005: UINT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(82): note: см. предыдущее определение "UINT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(627): warning C4005: INT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(78): note: см. предыдущее определение "INT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(628): warning C4005: UINT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(83): note: см. предыдущее определение "UINT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(629): warning C4005: INT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(79): note: см. предыдущее определение "INT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(630): warning C4005: UINT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(84): note: см. предыдущее определение "UINT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(631): warning C4005: INT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(80): note: см. предыдущее определение "INT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(632): warning C4005: INT_FAST8_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(74): note: см. предыдущее определение "INT_FAST8_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(633): warning C4005: INT_FAST16_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(75): note: см. предыдущее определение "INT_FAST16_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(634): warning C4005: INT_FAST32_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(76): note: см. предыдущее определение "INT_FAST32_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(638): warning C4005: UINT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(85): note: см. предыдущее определение "UINT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(639): warning C4005: INT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(81): note: см. предыдущее определение "INT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(640): warning C4005: INT_FAST64_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(77): note: см. предыдущее определение "INT_FAST64_MIN"
+  Initialization.cpp
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(310): warning C4005: UINT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(122): note: см. предыдущее определение "UINT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(325): warning C4005: INT8_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(117): note: см. предыдущее определение "INT8_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(343): warning C4005: UINT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(123): note: см. предыдущее определение "UINT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(367): warning C4005: INT16_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(118): note: см. предыдущее определение "INT16_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(381): error C2371: uint32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(23): note:  см. объявление "uint32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(382): warning C4005: UINT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(124): note: см. предыдущее определение "UINT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(411): error C2371: int32_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(19): note:  см. объявление "int32_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(412): warning C4005: INT32_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(119): note: см. предыдущее определение "INT32_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(477): warning C4005: UINT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(125): note: см. предыдущее определение "UINT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(478): warning C4005: INT64_C: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(120): note: см. предыдущее определение "INT64_C"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(622): error C2371: int_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(36): note:  см. объявление "int_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(623): error C2371: uint_fast16_t: переопределение; различные базовые типы
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(40): note:  см. объявление "uint_fast16_t"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(626): warning C4005: UINT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(82): note: см. предыдущее определение "UINT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(627): warning C4005: INT_FAST8_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(78): note: см. предыдущее определение "INT_FAST8_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(628): warning C4005: UINT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(83): note: см. предыдущее определение "UINT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(629): warning C4005: INT_FAST16_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(79): note: см. предыдущее определение "INT_FAST16_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(630): warning C4005: UINT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(84): note: см. предыдущее определение "UINT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(631): warning C4005: INT_FAST32_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(80): note: см. предыдущее определение "INT_FAST32_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(632): warning C4005: INT_FAST8_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(74): note: см. предыдущее определение "INT_FAST8_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(633): warning C4005: INT_FAST16_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(75): note: см. предыдущее определение "INT_FAST16_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(634): warning C4005: INT_FAST32_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(76): note: см. предыдущее определение "INT_FAST32_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(638): warning C4005: UINT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(85): note: см. предыдущее определение "UINT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(639): warning C4005: INT_FAST64_MAX: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(81): note: см. предыдущее определение "INT_FAST64_MAX"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\pstdint.h(640): warning C4005: INT_FAST64_MIN: изменение макроопределения
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdint.h(77): note: см. предыдущее определение "INT_FAST64_MIN"
+f:\в git\срочно\курсовая(3 курс)\obfuscation\kurs_test\initialization.cpp(12): warning C4307: +: переполнение целой константы
+  Создание кода...
